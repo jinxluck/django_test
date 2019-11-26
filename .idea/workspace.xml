@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebaafd4-4637-4419-be04-e597e32ace82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0002_auto_20191126_1708.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/datainput.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database_poc/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0003_testdatabase_timestamp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pro3site_mockup_fun2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro3site_mockup_fun2/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testpage/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/testpage/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testpage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/testpage/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574593693825</updated>
       <workItem from="1574593732318" duration="24013000" />
-      <workItem from="1574771774531" duration="13709000" />
+      <workItem from="1574771774531" duration="14630000" />
     </task>
     <servers />
   </component>
