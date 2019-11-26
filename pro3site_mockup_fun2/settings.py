@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'database_poc.apps.DatabasePocConfig',
     'testpage.apps.TestpageConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -80,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'djangotest',
         'USER': 'postgres',
-        'PASSWORD': 'Kastbjerg1992',
+        'PASSWORD': '******',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }

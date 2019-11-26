@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data output page</title>
+</head>
+<body>
+
+<h1>Data output:</h1>
+{% if all_data %}
+    <ul>
+        {% for testdatabase in all_data %}
+        <li>
+            ID: {{ testdatabase.id }} -- {{ testdatabase.Data }}
+        </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <h3>You don't have any data!</h3>
+{% endif %}
+
+</body>
+</html>
