@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebaafd4-4637-4419-be04-e597e32ace82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0003_testdatabase_timestamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0004_testdatabase_nodelete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database_poc/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" afterDir="false" />
@@ -124,7 +125,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574593693825</updated>
       <workItem from="1574593732318" duration="24013000" />
-      <workItem from="1574771774531" duration="14630000" />
+      <workItem from="1574771774531" duration="15365000" />
+      <workItem from="1574850931234" duration="1684000" />
     </task>
     <servers />
   </component>
@@ -136,7 +138,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

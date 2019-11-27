@@ -11,7 +11,8 @@
     <ul>
         {% for testdatabase in all_data %}
         <li>
-            ID: {{ testdatabase.id }} -- {{ testdatabase.Data }} -- {{ testdatabase.Timestamp }}
+            ID: {{ testdatabase.id }} -- DATA: {{ testdatabase.Data }} NODELETE: {{ testdatabase.NODELETE }} --
+            TIMESTAMP:{{ testdatabase.Timestamp }}
         </li>
         {% endfor %}
     </ul>
