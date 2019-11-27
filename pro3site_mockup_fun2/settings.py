@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django_crontab',
     'database_poc.apps.DatabasePocConfig',
     'testpage.apps.TestpageConfig',
     'django.contrib.admin',
@@ -39,6 +40,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+]
+
+#cron bliver startet med kommandoen "python manage.py crontab add"
+#cron bliver stoppet med kommmandoen "python manage.py crontab remove"
+CRONJOBS = [
+    #sat til at udføre en kommandoen "Database_clean_up" ved hvert minut skift
+    ('*/1 * * * *', 'database_poc.cron.Database_clean_up')
 ]
 
 MIDDLEWARE = [

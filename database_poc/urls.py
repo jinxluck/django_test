@@ -1,6 +1,7 @@
 from django.urls import path
 from . import views
 
+#hvilke URL stier der tilhører denne app, og hvilket "view" der skal findes til pågældende URL
 urlpatterns = [
     # /test/
     path('', views.testpage.as_view(), name='test'),

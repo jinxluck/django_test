@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebaafd4-4637-4419-be04-e597e32ace82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database_poc/migrations/0004_testdatabase_nodelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pro3site_mockup_fun2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pro3site_mockup_fun2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/cron.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/cron.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database_poc/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/migrations/0002_auto_20191126_1708.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/migrations/0003_testdatabase_timestamp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/migrations/0004_testdatabase_nodelete.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/database_poc/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/templates/database_poc/datainput.html" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/datainput.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/dataoutput.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/templates/database_poc/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/templates/database_poc/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_poc/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/database_poc/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro3site_mockup_fun2/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -53,6 +65,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -127,6 +140,9 @@
       <workItem from="1574593732318" duration="24013000" />
       <workItem from="1574771774531" duration="15365000" />
       <workItem from="1574850931234" duration="1684000" />
+      <workItem from="1574858522369" duration="4069000" />
+      <workItem from="1574869105119" duration="4885000" />
+      <workItem from="1574876357330" duration="6482000" />
     </task>
     <servers />
   </component>
